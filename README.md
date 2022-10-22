@@ -21,5 +21,6 @@ This project was for the capstone project of the Coursera IBM Advanced Data Scie
       (model evaluation, primarily using accuracy as metric--but also looking at area under ROC curve for the ML models.  The models are also applied to TestSet.csv at this point.)
   
 7. **[RealvFake].model_deployment.pdf** <br>
-     (pdf report/summary of the project, as well as thoughts on future iterations/avenues for the project)
+     (entitled "deployment" for course, but is pdf report/summary of the project, as well as thoughts on future iterations/avenues for the project)
   
+The accuracies of the models were exceptionally high, but I allude to potential reasons for this in the summary document.
